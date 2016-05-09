@@ -1,5 +1,6 @@
 # Technological monitoring (Veille Techno) 
 
+Pour faire de la veille technologique, je vous conseil je vous conseille de regarder plusieurs types de sources: les magazines spécialisé d
 
 ## IT Conference 
 
@@ -17,7 +18,8 @@
 * http://boingboing.net/
 * https://www.technologyreview.com/
 * https://hbr.org/
-* 
+* ...
+
 
 ## Twitter feed 
 
