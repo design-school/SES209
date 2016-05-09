@@ -5,7 +5,11 @@
 
 * ACM chi video (https://www.youtube.com/watch?v=dUDHQNuCKWQ)
 * Acm Video Youtube channel https://www.youtube.com/channel/UCPyA0XmU6aS4JCwVoIBTmIQ
-* IEEE 
+* IEEE conference of the domain you are interested on. 
+
+## 
+* http://spectrum.ieee.org/
+* http://technews.acm.org/
 
 ## Blog / magazine 
 
