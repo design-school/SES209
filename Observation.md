@@ -5,9 +5,11 @@ The goal of observing a situation is to get insight about the user experience, t
 
 
 
-## Video to look before: 
+## Video to look before the exercises: 
 
 * [Change Blindness - 4 minutes](https://www.youtube.com/watch?v=VkrrVozZR2c)
+* [Selective attention - 4 minutes](https://www.youtube.com/watch?v=vJG698U2Mvo)
+
 
 ## Supplies you need
 
@@ -30,7 +32,10 @@ The goal of observing a situation is to get insight about the user experience, t
 
 ## Template to fill 
 
-Warning: In your report: Please take care to clearly separate behaviors, interpretation and insight. Behavior is **What and how, people are doing things?** and your interpretation **What and why you think they are doing that?** and the insight you get form the observation **Why do you think these observations could be usefull for a product/service?** 
+Note: In your report: Please take care to clearly separate behaviors, interpretations and insights. 
+**Behavior is :**  What and how, people are doing things?
+**Interpretation is:** What and why you think they are doing that?
+**Insight is :** What did you learn? Why do you think these observations could be usefull for designing something?
 
 Below you will find the template. 
 Copy past it in your favourite text editor, write it, re read it and then submit it here : 
@@ -47,8 +52,9 @@ https://docs.google.com/forms/d/1fYLgIJAi0OQH0nOpiTcyv_SnS15R_xKcUrgoz8zPrRk/vie
 * What is the common action people are doing to do what they do?
 * How many different way people do that? 
 * Can you describe each of them and provide a picture for each?
-* Please list, three expected facts ? 
-* Please list, three unexpected facts ? 
+* Please list and describe three expected facts? 
+* Please list and describe three unexpected facts? 
+* Please list and describe three insights you get from these observation?
 
 
 
