@@ -30,7 +30,7 @@ The goal of observing a situation is to get insight about the user experience, t
 
 ## Template to fill 
 
-Warning : In your report: Please take care to clearly separate behaviors, interpretation and insight. Behavior is **What and how, people are doing things?** and your interpretation **What and why you think they are doing that?** and the insight you get form the observation **Why do you think these observations could be usefull for a product/service?** 
+Warning: In your report: Please take care to clearly separate behaviors, interpretation and insight. Behavior is **What and how, people are doing things?** and your interpretation **What and why you think they are doing that?** and the insight you get form the observation **Why do you think these observations could be usefull for a product/service?** 
 
 Below you will find the template. 
 Copy past it in your favourite text editor, write it, re read it and then submit it here : 
