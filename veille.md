@@ -21,6 +21,7 @@ Pour faire de la veille technologique, je vous conseil je vous conseille de rega
 * http://boingboing.net/
 * https://www.technologyreview.com/
 * https://hbr.org/
+* http://www.techinsider.io/
 * ...
 
 
