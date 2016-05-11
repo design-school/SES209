@@ -9,6 +9,7 @@ Pour faire de la veille technologique, je vous conseil je vous conseille de rega
 * IEEE conference of the domain you are interested on. 
 * http://spectrum.ieee.org/
 * http://technews.acm.org/
+* https://news.ycombinator.com/
 
 ## Blog / magazine 
 
