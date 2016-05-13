@@ -1,5 +1,8 @@
 # Pictching your project 
 
+There is different types of pitch for different goals: 
+* Elevator pitch, to create curiosity and create contact 
+* Details Pitch, to present in broad detail all the system and business
 
 
 ## Video to watch:
