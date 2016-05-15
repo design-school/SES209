@@ -1,5 +1,4 @@
-# About
-
+# About ---
 
 ## SYLLABUS
 
@@ -78,16 +77,17 @@ All assignement must be uploaded to HERE.
 ### Introduction to the course and to Service Design 
 
 * Lecture: 	
-	* Why this course? 					(Done)
-	* What is design? Why, what how? 	(Done)
-	* Design process? 					(To finish)
-	* How to understand participant?	(Todo)
+	* [Why this course? 	What is design? Why, What how?](slides/SES209-01-A-INTRO.pdf) 	
+	* [Design process?](slides/SES209-01-design-process.pdf) 			
+	* [How to understand participant?](slides/SES209-01-E-Understanding_situations_.pdf)	
 
 * Studio :
-	* Design Challenge : Tower building (15 minutes)
+<!--	* Design Challenge : Tower building (15 minutes)
 	* Workshop: The Breakup Letter   	(15 minutes + 30 minutes)
-<!--	* Bring an object or service 		(1 hours)--> 
-	* Team building			        	(15 minutes)
+	* Bring an object or service 		(1 hours) 
+	* Team building		        	(15 minutes)
+--> 
+	* Observation exercices (1h30)
 
 * Ressources: 
 	* [interview handout + template (extract from HCD guide)](SES209_01_Interview-guide-extract-HCD-IDEO.pdf)
@@ -95,9 +95,9 @@ All assignement must be uploaded to HERE.
 
 * Assignment for next week:
 	* Choose a situation.
-	* You have to do 2 interviews minimums for next week. ( 2 short one, and 2 detail ones)
 	* You have to do a 15 minutes to 2 hours video observations of a situation. 
 	  And extract 3 expected and 3 unexpected facts.  
+	* Watch [deepdive video](ressources/Ideo%20Deep%20Dive.mp4) 
 
 
 
