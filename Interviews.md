@@ -46,8 +46,8 @@ After the interviews, try to extract
 
 ## To know more: 
 
-* Short paper
-* Long book 
-* 
+* Video []()
+* Paper [Qualitative Interview Design: A Practical Guide for Novice Investigators](http://www.nova.edu/ssss/QR/QR15-3/qid.pdf)
+* Book []()
 
 
