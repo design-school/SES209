@@ -112,12 +112,14 @@ All assignement must be uploaded to HERE.
 	* Group making 
 
 * Assignment: 
-	* [Define project]() 
- 	* [Interview handout + template (extract from HCD guide)](SES209_01_Interview-guide-extract-HCD-IDEO.pdf)
-	* [Persona ]()
-	* [Handout on Journey map]()  
-	* [Handout on Related work]() 
-
+	* [Decide on a general topic for your group and a target audience.]() 
+	* [Each group member should conduct at least two interviews, as specific as possible, with members of this target audience.]()
+ 	* [Each group member should design at least one persona from the interview]()
+ 	* [Each group member should design a jorney map from the interview]()
+ 	* [Each group member should design do a search of ten solutions to the problem]()
+ 	
+	* [Interview handout + template (extract from HCD guide)](SES209_01_Interview-guide-extract-HCD-IDEO.pdf)
+	
 
 
 
