@@ -77,20 +77,13 @@ All assignement must be uploaded to HERE.
 ### Introduction to the course and to Service Design 
 
 * Lecture: 	
-	* [Why this course? 	What is design? Why, What how?](slides/SES209-01-A-INTRO.pdf) 	
+	* [Why this course? What is design? Why, What how?](slides/SES209-01-A-INTRO.pdf) 	
 	* [Design process?](slides/SES209-01-design-process.pdf) 			
-	* [How to understand participant?](slides/SES209-01-E-Understanding_situations_.pdf)	
 
 * Studio :
-<!--	* Design Challenge : Tower building (15 minutes)
-	* Workshop: The Breakup Letter   	(15 minutes + 30 minutes)
-	* Bring an object or service 		(1 hours) 
-	* Team building		        	(15 minutes)
---> 
-	* Observation exercices (1h30)
+	* [How to understand participant?](slides/SES209-01-E-Understanding_situations_.pdf) (1h30)	
 
 * Ressources: 
-	* [interview handout + template (extract from HCD guide)](SES209_01_Interview-guide-extract-HCD-IDEO.pdf)
 	* [observation handout + template](Observation.md)
 
 * Assignment for next week:
@@ -108,31 +101,22 @@ All assignement must be uploaded to HERE.
 ###  Problem setting / analysing a situation 
 
 * Lectures: 
-	* Problem setting 
-	* Analysing the video 
-	* Persona 
-	* Journey map  
-
+	* Why observation is usefull? 
+	* How to go from observation to inspiration?
+	* How to use your sketchbook?
+	* Choose a project?
 
 * Studio:
-	* Analyse interview
-	* Analyse video
-	* journey map 
-
-
-* Ressources: 
-	* Handout on Persona 
-	* Handout on Journey map  
-	* Handout on Related work 
-
+	* Recruiting people
+	* Interviewing tutorial 
+	* Group making 
 
 * Assignment: 
-	* Interview analysis
-	* Persona (s)
-	* Journey Map 
-	* Related work 
-	* Map stack holders
-
+	* [Define project]() 
+ 	* [Interview handout + template (extract from HCD guide)](SES209_01_Interview-guide-extract-HCD-IDEO.pdf)
+	* [Persona ]()
+	* [Handout on Journey map]()  
+	* [Handout on Related work]() 
 
 
 
@@ -287,6 +271,7 @@ For Any question you can send a email
 ### Credit  
 
 
+
 To design this course I use or inspire from some materials of:
 
 * Service Design - [Liz Gerber](https://egerber.mech.northwestern.edu/?page_id=534)
@@ -294,5 +279,49 @@ To design this course I use or inspire from some materials of:
 * Julie A. Kientz - [](http://courses.washington.edu/hcde418/)
 * http://blogs.uw.edu/hcde518/syllabus
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ——————————————————————————————————————————————————————————————————————
+GARBAGE COLLECTOR : 
+	* Design Challenge : Tower building (15 minutes)
+	* Workshop: The Breakup Letter   	(15 minutes + 30 minutes)
+	* Bring an object or service 		(1 hours) 
+	* Team building		        	(15 minutes)
+
+----
+	* Problem setting 
+	* Analysing the video 
+	* Persona 
+	* Journey map  
+----
+
+* Assignment: 
+	* Interview analysis
+	* Persona (s)
+	* Journey Map 
+	* Related work 
+	* Map stack holders
+
+
 -->
