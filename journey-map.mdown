@@ -1,0 +1,42 @@
+# Persona
+
+
+User Journeys describe at a high level of detail exactly what steps different users take to complete a specific task within a system, application or website. This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow.
+
+For this exercise we want a **draft** of a journey map. 
+As draft is messy, sketchy and not finish, but try to make it the best as possible. 
+
+Before this exercise it is better to have done the interview, the related work, and the personas. 
+
+## Video to watch before doing it: 
+* [Journey Map, Stanford, d.school](https://vimeo.com/78554759)
+* [How to Create a Customer Journey Map, Ux mastery](http://uxmastery.com/how-to-create-a-customer-journey-map/)
+
+## Supplies you need
+* pen and paper
+* your group interviews 
+* your group personas
+
+## Steps
+
+* 1 | Make one or several individual journey map based on your own experience, your interview and personas. 
+* 2 | Step by step describes his/her experience and list of interaction to get from point A to point B. For each touch points.
+	* Identify every touch point relative to your services 
+	* Identify every problem  & opportunities at each touch points
+	* Identify the different user objective 
+	* Identify the different medium in use 
+	* Write two sentences of description of the situation. 
+	* What is the person emotion at this point?
+* 3 | Scan your work and send it into the group folder with the following name "jouney_map_1_firstname_lastname".
+* 4 | Send it to your team asking feedback, critiques, agreements.
+* 5 | Correct it
+
+
+## To know more: 
+
+* Detail webpage: [How to create a customer jouney map](http://uxmastery.com/how-to-create-a-customer-journey-map/)
+* super short webpage:  [Journey map on IDEO](http://www.designkit.org/methods/63)
+* Book : [User Story Mapping: Discover the Whole Story, Build the Right Product]()
+* Book: [Mapping Experiences: A Guide to Creating Value through Journeys, Blueprints, and Diagrams](http://www.amazon.com/Mapping-Experiences-Creating-Journeys-Blueprints)
+
+[gimmick:Disqus](cybunk)
