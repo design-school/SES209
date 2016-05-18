@@ -35,7 +35,7 @@ L’objectif du cours est de fournir à des étudiants ingénieurs les élément
 | 4        |  DESIGN: Storyboard and wireframe  			|  (a10) Wireframe, (a11) Draft storyboard 			|
 | 5        |  DESIGN: Prototyping user experience       	|  (a12) Prototype, (a13) Final Storyboard 			|
 | 6        |  EVALUATION 			        				|  (a14) Design walkthrough, (a15) Design alternatives, (a16) Experiment design |
-| 7        |  DESIGN: Redesign and pitching       			|  (a17) Improve your system, (a18)						|
+| 7        |  DELIVER						      			|  					|
 | 8        |  PRESENTING      	 		 					|  (a19) Presentation + Pitch, (a20) Final Report	|
 
 
@@ -78,18 +78,13 @@ All assignement must be uploaded to HERE.
 
 * Lecture: 	
 	* [Why this course? What is design? Why, What how?](slides/SES209-01-A-INTRO.pdf) 	
-	* [Design process?](slides/SES209-01-design-process.pdf) 			
+	* [Design process?](slides/SES209-01-PROCESS.pdf) 			
 
 * Studio :
-	* [How to understand participant?](slides/SES209-01-E-Understanding_situations_.pdf) (1h30)	
-
-* Ressources: 
-	* [observation handout + template](Observation.md)
+	* [How to understand participant?](slides/SES209-01-Understanding_situations.pdf) (1h30)	
 
 * Assignment for next week:
-	* Choose a situation.
-	* You have to do a 15 minutes to 2 hours video observations of a situation. 
-	  And extract 3 expected and 3 unexpected facts.  
+	* [observation handout + template](Observation.md)
 	* Watch [deepdive video](ressources/Ideo%20Deep%20Dive.mp4) 
 
 
@@ -101,25 +96,22 @@ All assignement must be uploaded to HERE.
 ###  Problem setting / analysing a situation 
 
 * Lectures: 
-	* Why observation is usefull? 
-	* How to go from observation to inspiration?
-	* How to use your sketchbook?
-	* Choose a project?
+	* Problem picth 
+	* Group making 
+	* [How to use your sketchbook?](slides/Chapter-1.3-TheSketchbook.pdf)
+	* [Advice for conducing an interview?](slides/SES209-02-INTERVIEW.pdf)
 
 * Studio:
-	* Recruiting people
-	* Interviewing tutorial 
-	* Group making 
+	* [Persona](slides/SES209-02_Persona.pdf)
+	* [Journey map](slides/SES209-02_Journey Maps.pdf)
 
 * Assignment: 
-	* [Decide on a general topic for your group and a target audience.]() 
-	* [Each group member should conduct at least two interviews, as specific as possible, with members of this target audience.]()
- 	* [Each group member should design at least one persona from the interview]()
- 	* [Each group member should design a jorney map from the interview]()
- 	* [Each group member should design do a search of ten solutions to the problem]()
- 	
-	* [Interview handout + template (extract from HCD guide)](SES209_01_Interview-guide-extract-HCD-IDEO.pdf)
-	
+	* [Interviews](Interviews.md)	 		
+	* [Related work](Relatedwork.md)     	
+	* [Persona](persona.md)					
+	* [Journey map](journey-map.mdown) 		
+
+
 
 
 
