@@ -1,7 +1,7 @@
-# Related Work Exercices
+# Related Work Exercises
 
-Previous people in the world may already meet the problem or the situation your are facing. And they probably have done it for some good reasons. 
-All designer is smarter when they know what have already been done before and for which criterias. So we want you to make a collection of solutions to the problem(s) or situation(s) your are facing. It will be usefull to generate more innovative solutions, new alternatives, or even improve the existing. So we want every one of you to find 10 solutions that already solve your problem in a way or in a other. (If you have more it is ok too)
+Previous people in the world probably already meet similar problem(s) or the situation(s) than the one you are facing. And they probably have built some solutions for some good reasons. 
+All designer is smarter when they know what has already been done before and for which criteria. So we want you to make a collection of **existing** solutions to the problem(s) or situation(s) you are facing and try to solve. This could be useful to generate more innovative solutions, new alternatives, or even improve the existing. So we want every one of you to find 10 solutions that already solve your problem in a way or in another. (If you have more it is OK too.)
 
 
 ## Supplies you need
