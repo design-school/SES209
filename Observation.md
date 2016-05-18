@@ -56,5 +56,6 @@ https://docs.google.com/forms/d/1fYLgIJAi0OQH0nOpiTcyv_SnS15R_xKcUrgoz8zPrRk/vie
 * Please list and describe three unexpected facts? 
 * Please list and describe three insights you get from these observation?
 
+[gimmick:Disqus](cybunk)
 
 
