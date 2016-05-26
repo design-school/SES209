@@ -17,16 +17,15 @@ Liste of assignments by Weeks:
 
 | Week     | Assignments 							|
 |--------|--------------------|
-| 4        | [Service concept](ServiceConcept.md)	|
-| 4        | [Alternatives](Alternatives.md) 		|
-| 4        | [Scenarios](Scenarios.md) 				|
-| 4        | [Design Space](DesignSpace.md) 		|
+| 4        | [Service concept & Alternative](ServiceConcept.md)	|
+| 4        | [Design challanges](DesignChallenges.md) 		|
 
 
 | Week     | Assignments 							|
 |--------|--------------------|
 | 5        | [Wireframe](Wireframe.md)				|
 | 5        | [Draft Storyboard](StoryboardDraft.md)	|
+| 5        | [Scenarios](Scenarios.md) 				|
 
 
 | Week     | Assignments 							|
