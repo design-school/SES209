@@ -18,7 +18,7 @@ Liste of assignments by Weeks:
 | Week     | Assignments 							|
 |--------|--------------------|
 | 4        | [Service concept & Alternative](ServiceConcept.md)	|
-| 4        | [Design challanges](DesignChallenges.md) 		|
+| 4        | [Design challenges](DesignChallenges.md) 		|
 
 
 | Week     | Assignments 							|
