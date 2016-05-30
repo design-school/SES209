@@ -1,4 +1,4 @@
-# About ---
+# About SES209
 
 ## SYLLABUS
 
@@ -46,12 +46,12 @@ L’objectif du cours est de fournir à des étudiants ingénieurs les élément
 
 All session of the cours will be divide into a lecture and a workshop part.  Presence to all lectures and studio time are mandatory ! Homework between session is mandatory !
 
-| What  	    			|  Percent 	      |
-| ------------- 			|: -------------: |
-| Weekly Assignments: 		|   30 % (due every sunday at midnight)|
-| Class Participation: 	  	| 	15 % |
-| Final Reflection Paper:   |	15 % (due 28/06 at midnight)|
-| Final Project: 	  	  	| 	20 % (due 28/06 at midnight)|
+| What  	    			|  Percent 	      			|
+| ------------- 			|: -------------: 			|
+| Weekly Assignments: 			|   30 % (due every sunday at midnight) |
+| Class Participation: 	  		|   15 % 				|
+| Final Reflection Paper		|   15 % (due 28/06 at midnight)	|
+| Final Project: 	  	  	|   20 % (due 28/06 at midnight)	|
 
 All assignement are due for sunday 00:00 pm. 
 All assignement must be uploaded to HERE. 
@@ -120,33 +120,25 @@ All assignement must be uploaded to HERE.
 ### Ideation : Generating Ideas and alternatives
 
 
-* Lectures: 
-	* Generate ideas with brainstorming
-	* Creating a design space  
-
 * Studio:
-	* Generating ideas with brainstorming 
-	* Creating a design space 	
+	* [Generate ideas with brainstorming]()
+	* [10x10 Exercice]() 
 
 * Ressources: 	
 	* Scenario of the service 
 
 * Assignment: 
-	* Finish the design space exploration 
-
+	Nothing
 
 ——————————————————————————————————————————————————————————————————————
 ## 04 | DESIGN UX
 ### Concept, Designing your system.  
 
 * Lectures: 
-	* Defining the concept 
-	* Designing the system 
+	* Design rational and presenting a design concept 
 
 * Studio:
-	* Confident drawing 
-	* Sketching 
-	* wire framing 
+	* wireframing 
 	* storyboarding 
 
 * Ressources: 	
@@ -155,10 +147,10 @@ All assignement must be uploaded to HERE.
 	* storyboard frame 
 
 * Assignment: 
-	* Define a service 
-	* Generate alternatives
-	* Function tables 
-
+	* Define the design concept 
+	* Start writing the design rational
+	* Working on the storyboard
+	* Working on the wireframe
 
 ——————————————————————————————————————————————————————————————————————
 ## 05 | DESIGN PROTOTYPE
@@ -167,7 +159,8 @@ All assignement must be uploaded to HERE.
 
 * Lectures: 
 	* finish storyboard
-
+	* 
+	
 * Studio:
 	* storyboard 
 	* Video prototyping 
